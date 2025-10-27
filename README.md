@@ -76,6 +76,14 @@ Here are all the charts generated during the analysis:
 **Feature Importance for Match Outcome**
 ![Feature Importance](outputs/figures/12_feature_importance.png)
 
+## 📌 Key Insights
+
+- Mumbai Indians and Kolkata Knight Riders lead in total wins.
+- Winning the toss increases match win probability (~52%).
+- Top batsmen average 35+ runs per match, with 100+ IPL centuries recorded.
+- Best bowling economy rates are around 6-7 runs per over.
+- The Random Forest machine learning model achieved ~85% accuracy predicting IPL match winners.
+
 
 ## How to run this?
 1. Install Python 3.11
