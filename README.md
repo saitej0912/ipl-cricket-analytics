@@ -30,6 +30,53 @@ This is a data analysis project about Indian Premier League (IPL) cricket.
 - `data/deliveries.csv` – Ball-by-ball data
 - `outputs/figures/` – All charts and visualizations
 
+## 📊 Visualizations Created
+
+Here are all the charts generated during the analysis:
+
+### Team Analysis
+
+**Top 10 Teams by Wins**
+![Top 10 Teams by Wins](outputs/figures/01_top_teams_by_wins.png)
+
+**Win Percentage by Team**
+![Win Percentage](outputs/figures/02_win_percentage.png)
+
+**Toss Impact on Match Outcomes**
+![Toss Impact](outputs/figures/03_toss_impact.png)
+
+**Toss Decisions: Bat vs Field**
+![Toss Decisions](outputs/figures/04_toss_decisions.png)
+
+**Top 10 Venues**
+![Top Venues](outputs/figures/05_top_venues.png)
+
+### Player Analysis
+
+**Top 15 Batsmen by Total Runs**
+![Top Batsmen by Runs](outputs/figures/06_top_batsmen_by_runs.png)
+
+**Top 15 Bowlers by Total Wickets**
+![Top Bowlers by Wickets](outputs/figures/07_top_bowlers_by_wickets.png)
+
+**Centuries vs Fifties**
+![Centuries vs Fifties](outputs/figures/08_centuries_vs_fifties.png)
+
+**Average Runs per Match**
+![Average Runs per Match](outputs/figures/09_average_runs_per_match.png)
+
+**Best Economy Rate Bowlers**
+![Best Economy Rate](outputs/figures/10_best_economy_rate.png)
+
+### Machine Learning
+
+**Confusion Matrix**
+![Confusion Matrix](outputs/figures/11_confusion_matrix.png)
+
+**Feature Importance for Match Outcome**
+![Feature Importance](outputs/figures/12_feature_importance.png)
+
+
 ## How to run this?
 1. Install Python 3.11
 2. Install libraries: `pip install -r requirements.txt`
